@@ -15,7 +15,10 @@
 <img align="left" alt="Redis logo" title="Redis (database)" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 <img align="left" alt="InfluxDB logo" title="InfluxDB (timeseries database)" width="50px" style="padding-right:10px;" src="./influxdb-seeklogo.com.svg"/>
 <img align="left" alt="Git logo" title="Git (version control)" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Docker logo" title="Docker (platform)" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<img align="left" alt="Kubernetes logo" title="Kubernetes (platform)" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Jira logo" title="Jira (project management)" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+<br />
 <br />
 
 # 
